@@ -1,3 +1,8 @@
-.ibm-border-red-core {
- border-color:#e71d32
-}
+<style>
+div.warn {    
+    background-color: #fcf2f2;
+    border-color: #dFb5b4;
+    border-left: 5px solid #dfb5b4;
+    padding: 0.5em;
+    }
+ </style>
